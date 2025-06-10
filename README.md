@@ -187,8 +187,11 @@ Anschließend kann das Programm ausgeführt werden.
 6. **Document** the workflow in comments or a short file, emphasizing:
 
    * The role of `extern` declarations.
+     Damit der Compiler weiß, dass die Funktionen ein einer anderen Datei definiert sind. 
    * Why separating compilation can speed up builds.
+     NUr geänderte Dateien müssen hier kompiliert werden. 
    * How manual linking differs from letting `gcc` handle all steps in one command.
+     Wiederverwendbarkeit in anderen Projekten. 
 
 ---
 

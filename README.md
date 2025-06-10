@@ -93,6 +93,11 @@ In this exercise you will:
    * ![image](https://github.com/user-attachments/assets/55e86280-59aa-4af6-83c3-6c3436f3cb7f)
 
 6. **Explain** in comments or a short README how each stage transforms the code.
+ Im ersten Schritt wird Vorverarbeitet. Makros und Header werden in den Code eingefügt und ausgeschrieben. Diese Datei hat die Endung .i
+Anschließend wird in assembly übersetzt.
+Anschließend konvertiert der Assembler in Maschinencode.
+Dieser Maschinencode wird anschließend mit einem linker und den Standardbibliotheken ausführbar gemacht.
+Anschließend kann das Programm ausgeführt werden.    
 
 ---
 

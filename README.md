@@ -89,6 +89,9 @@ In this exercise you will:
    ```
 
    * Run `./solutions/sample` and confirm it prints `Hello, PP7!`.
+  
+   * ![image](https://github.com/user-attachments/assets/55e86280-59aa-4af6-83c3-6c3436f3cb7f)
+
 6. **Explain** in comments or a short README how each stage transforms the code.
 
 ---

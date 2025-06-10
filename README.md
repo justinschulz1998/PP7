@@ -140,6 +140,11 @@ Anschließend kann das Programm ausgeführt werden.
    ```
 7. **Explain** each tool’s approach to regex-based search and replace, and when you might prefer one over the others.
 
+   grep wird nur zum suchen verwendet
+   sed ersetzt texte in Dateien
+   awk gibt zeilen mit ersetzten Text aus
+   mit vim können Texte interaktiv geändert werden und sich große Mengen an Dateien angeschaut werden. 
+
 ---
 
 ### Task 3: Modular Linking with `extern`
